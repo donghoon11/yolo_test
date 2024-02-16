@@ -1,2 +1,2 @@
 # yolo_test
-pretrained YOLO mode using shopping trolley dataset
+pretrained YOLO model using shopping trolley dataset
